@@ -1,0 +1,12 @@
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+traffic.db
+__pycache__/
+*.pyc
+build/
+.pio/
+.vscode/
